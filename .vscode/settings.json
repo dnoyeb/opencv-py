@@ -1,3 +1,4 @@
 {
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "python.pythonPath": "D:\\Anaconda3\\envs\\facePoint\\python.exe"
 }
